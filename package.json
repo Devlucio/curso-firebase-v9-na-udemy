@@ -1,0 +1,19 @@
+{
+  "name": "curso-firebase-v9-na-udemy",
+  "version": "1.0.0",
+  "description": "Firebese V9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devlucio/curso-firebase-v9-na-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devlucio/curso-firebase-v9-na-udemy/issues"
+  },
+  "homepage": "https://github.com/Devlucio/curso-firebase-v9-na-udemy#readme"
+}
